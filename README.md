@@ -1,5 +1,6 @@
 # Road Accident Analysis Excel
 The Road Accident Analysis Dashboard is a comprehensive visual tool designed to provide insights and facilitate informed decision-making regarding road safety measures. Developed using Excel, this dashboard amalgamates data from a Kaggle data set to offer a holistic view of road accidents, their causes, and associated trends.
+![Image Description](Dashboard2.png)
 
 # Key Features:
 1. Vehicle Type and Impact Analysis:
